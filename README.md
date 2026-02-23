@@ -37,7 +37,8 @@ Dashboard นี้สามารถ:
 กดปุ่ม **"Upload CSV File"** แล้วเลือกไฟล์  
 Top 1000 TikTok Influencers (.CSV) จาก Kaggle เพื่ออัปโหลดเข้าสู่ระบบ
 
-*(เว้นบรรทัดสำหรับใส่รูปภาพ Screenshot ตอนอัปโหลดไฟล์)*
+*(<img width="1393" height="222" alt="image" src="https://github.com/user-attachments/assets/40e9ea29-5e75-47f8-929b-cd24d0a7a6b4" />
+)*
 
 ---
 
