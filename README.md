@@ -83,7 +83,8 @@ Top 1000 TikTok Influencers (.CSV) จาก Kaggle เพื่ออัปโ�
 ### 📊 Scatter Plot
 แสดงความสัมพันธ์ระหว่าง Followers กับ Likes
 
-*(เว้นบรรทัดสำหรับใส่ Screenshot กราฟ)*
+*(<img width="1463" height="579" alt="image" src="https://github.com/user-attachments/assets/65f1d857-3f58-4750-84fd-9e65d68e4c22" />
+)*
 
 ---
 
